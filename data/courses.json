@@ -119,7 +119,7 @@
       "Learn variable creation using 'let' and 'const' keywords and their scope",
       "Learn what id destructuring etc."
     ],
-    "category_id": "03",
+    "category_id": "02",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"

@@ -1,34 +1,26 @@
 [
   {
     "id": "01",
-    "name": "Graphic Design"
+    "course_name": "Graphic Design"
   },
   {
     "id": "02",
-    "name": "React Js"
+    "course_name": "Front-End Dev"
   },
   {
     "id": "03",
-    "name": "Web Development"
+    "course_name": "Web Development"
   },
   {
     "id": "04",
-    "name": "It and Software"
+    "course_name": "It and Software"
   },
   {
     "id": "05",
-    "name": "Digital Marketing"
+    "course_name": "Digital Marketing"
   },
   {
     "id": "06",
-    "name": "Finance & Accounting"
-  },
-  {
-    "id": "07",
-    "name": "Sajek Valley"
-  },
-  {
-    "id": "08",
-    "name": "Sajek Valley"
+    "course_name": "Finance & Accounting"
   }
 ]
