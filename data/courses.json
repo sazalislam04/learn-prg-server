@@ -14,6 +14,7 @@
       "badge": "Excellent"
     },
     "lessons": 5,
+    "duration": "15 Day",
     "price": 60,
     "title": "Learn UI/UX Design Essential Training",
     "instructors": {
@@ -41,6 +42,7 @@
       "badge": "Excellent"
     },
     "lessons": 6,
+    "duration": "12 Day",
     "price": 88,
     "title": "React JS Complete Guide",
     "author": {
@@ -70,6 +72,7 @@
       "badge": "Excellent"
     },
     "lessons": 8,
+    "duration": "10 Day",
     "price": 50,
     "title": "The Complete HTML & CSS Course",
     "author": {
@@ -95,6 +98,7 @@
       "badge": "Excellent"
     },
     "lessons": 10,
+    "duration": "16 Day",
     "price": 40,
     "title": "Full Stack Development Course With 100 Web Template",
     "author": {
@@ -121,6 +125,7 @@
       "badge": "Excellent"
     },
     "lessons": 7,
+    "duration": "18 Day",
     "price": 40,
     "title": "The Complete JavaScript Course basic to advanced",
     "author": {
@@ -144,6 +149,7 @@
       "badge": "Excellent"
     },
     "lessons": 2,
+    "duration": "8 Day",
     "price": 45,
     "title": "Learn Git & GitHub Beginner To Advanced",
     "author": {
@@ -166,6 +172,7 @@
       "badge": "Excellent"
     },
     "lessons": 9,
+    "duration": "20 Day",
     "price": 40,
     "title": "The Complete Digital Marketing Course",
     "author": {
@@ -190,6 +197,7 @@
       "badge": "Excellent"
     },
     "lessons": 5,
+    "duration": "15 Day",
     "price": 38,
     "title": "The Complete Financial Analyst Training",
     "author": {
