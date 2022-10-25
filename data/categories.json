@@ -1,0 +1,27 @@
+[
+  {
+    "id": "01",
+    "name": "Cox's Bazar",
+    "img": "https://images.pexels.com/photos/3655946/pexels-photo-3655946.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "02",
+    "name": "Sreemangal",
+    "img": "https://images.unsplash.com/photo-1622040256403-313e14cad531?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8dGVhJTIwZ2FyZGVufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "03",
+    "name": "Sundarbans",
+    "img": "https://images.pexels.com/photos/7722950/pexels-photo-7722950.jpeg?auto=compress&cs=tinysrgb&w=600"
+  },
+  {
+    "id": "04",
+    "name": "Senmartin",
+    "img": "https://images.unsplash.com/photo-1616432124087-1be7870c3aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c2FpbnQlMjBtYXJ0aW4lMjBpc2xhbmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "id": "05",
+    "name": "Sajek Valley",
+    "img": "https://images.unsplash.com/photo-1578128178075-a7fbe741fcf7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2FqZWslMjB2YWxsZXl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+  }
+]
