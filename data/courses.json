@@ -17,13 +17,13 @@
     "duration": "15 Day",
     "price": 60,
     "title": "Learn UI/UX Design Essential Training",
-    "instructors": {
+    "instructor": {
       "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFuJTIwcGhvdG98ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      "info": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone."
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFuJTIwcGhvdG98ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
-    "image_url": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dWklMjB1eCUyMGRlc2lnbiUyMHdpdGglMjBtYW58ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    "image_url": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dWklMjB1eCUyMGRlc2lnbiUyMHdpdGglMjBtYW58ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "info": "The UI/UX Design Specialization brings a design-centric approach to user interface and user experience design, and offers practical, skill-based instruction centered around a visual communications perspective, rather than on one focused on marketing or programming alone."
   },
 
   {
@@ -45,10 +45,10 @@
     "duration": "12 Day",
     "price": 88,
     "title": "React JS Complete Guide",
-    "author": {
+    "instructor": {
       "name": "Robert Smith",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGVhY2hlciUyMGZhY2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGVhY2hlciUyMGZhY2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
 
     "image_url": "https://images.unsplash.com/photo-1629904853893-c2c8981a1dc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWFuJTIwJTIwY29kaW5nfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
@@ -75,10 +75,10 @@
     "duration": "10 Day",
     "price": 50,
     "title": "The Complete HTML & CSS Course",
-    "author": {
+    "instructor": {
       "name": "Albert Mark",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
     "image_url": "https://images.unsplash.com/photo-1620674156044-52b714665d46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YWRvYmUlMjBwaG90b3Nob3B8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "info": "Throughout this course, you'll learn about the underlying structure of the web - HTML. You'll learn how to use this tree-like structure to create websites. You'll also learn how to apply styling to a website through CSS. You'll learn about CSS syntax, selectors, and units. Along the way, you'll also learn about code editors and a browser's Developer Tools."
@@ -92,7 +92,7 @@
       "Learn to design websites & mobile phone apps.",
       "You will be able to talk correctly with other UX design."
     ],
-    "category_id": "04",
+    "category_id": "03",
     "rating": {
       "number": 4.3,
       "badge": "Excellent"
@@ -101,10 +101,10 @@
     "duration": "16 Day",
     "price": 40,
     "title": "Full Stack Development Course With 100 Web Template",
-    "author": {
+    "instructor": {
       "name": "Angela Jolly",
-      "published_date": "2022-08-30 16:38:45",
-      "img": "https://images.unsplash.com/photo-1580854603514-00e1142d162d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvbWFuJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1580854603514-00e1142d162d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvbWFuJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
     },
 
     "image_url": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nJTIwd2l0aCUyMG1hbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
@@ -119,7 +119,7 @@
       "Learn variable creation using 'let' and 'const' keywords and their scope",
       "Learn what id destructuring etc."
     ],
-    "category_id": "05",
+    "category_id": "03",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -128,12 +128,12 @@
     "duration": "18 Day",
     "price": 40,
     "title": "The Complete JavaScript Course basic to advanced",
-    "author": {
+    "instructor": {
       "name": "Henry Thomas",
-      "published_date": "2022-08-24 23:15:00",
-      "img": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
-    "thumbnail_url": "https://images.unsplash.com/photo-1580894895938-bd31a62ed8ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d29tYW4lMjBjb2Rpbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "image_url": "https://images.unsplash.com/photo-1580894895938-bd31a62ed8ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8d29tYW4lMjBjb2Rpbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "info": "Are you looking to extend your knowledge in Javascript programming by learning the concepts of modern javascript - ES6? If you want to start your journey to become a React or Angular developer, then this is the perfect course for you."
   },
   {
@@ -143,7 +143,7 @@
       "Learn how to collaborate in projects via Git & GitHub in teams & organizations",
       "Efficiently manage projects with Git & GitHub"
     ],
-    "category_id": "06",
+    "category_id": "04",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -152,10 +152,10 @@
     "duration": "8 Day",
     "price": 45,
     "title": "Learn Git & GitHub Beginner To Advanced",
-    "author": {
+    "instructor": {
       "name": "James Hobs",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166__340.jpg"
+      "designation": "Instractor",
+      "photo": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166__340.jpg"
     },
     "image_url": "https://images.unsplash.com/photo-1612417137465-2883c39320a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZmlnbWF8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "info": "This course will guide everyone (no prior knowledge is required!) through the core steps to use these tools in your daily projects with ease."
@@ -166,7 +166,7 @@
       "Grow a Business Online From Scratch",
       "Get Hired as a Digital Marketing Expert"
     ],
-    "category_id": "07",
+    "category_id": "05",
     "rating": {
       "number": 4.3,
       "badge": "Excellent"
@@ -175,10 +175,10 @@
     "duration": "20 Day",
     "price": 40,
     "title": "The Complete Digital Marketing Course",
-    "author": {
+    "instructor": {
       "name": "Michael John",
-      "published_date": "2022-08-30 16:38:45",
-      "img": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YXV0aG9yJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+      "designation": "Instractor",
+      "photo": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YXV0aG9yJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
       "info": "This course will offer students a panoramic view of digital marketing and provide insights into key strategies using Internet-based platforms. In addition, it will focus on content that resonates with consumers that helps businesses differentiate themselves in competitive markets."
     },
 
@@ -191,7 +191,7 @@
       "Format spreadsheets in a professional way",
       "Understand Accounting and Bookkeeping principles"
     ],
-    "category_id": "08",
+    "category_id": "06",
     "rating": {
       "number": 4.5,
       "badge": "Excellent"
@@ -200,10 +200,10 @@
     "duration": "15 Day",
     "price": 38,
     "title": "The Complete Financial Analyst Training",
-    "author": {
+    "instructor": {
       "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://cdn.pixabay.com/photo/2016/11/23/00/57/adult-1851571__340.jpg"
+      "designation": "Instractor",
+      "photo": "https://cdn.pixabay.com/photo/2016/11/23/00/57/adult-1851571__340.jpg"
     },
 
     "image_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8ZmluYW5jaW5nJTIwbWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
