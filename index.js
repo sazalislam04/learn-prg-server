@@ -21,6 +21,11 @@ app.get("/course/:id", (req, res) => {
   const course = courses.find((cr) => cr._id === id);
   res.send(course);
 });
+app.get("/checkout/:id", (req, res) => {
+  const id = req.params.id;
+  const checkout = courses.find((cr) => cr._id === id);
+  res.send(checkout);
+});
 
 app.get("/categories", (req, res) => {
   res.send(categories);
