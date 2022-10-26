@@ -13,13 +13,17 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 5,
     "lessons": 5,
     "duration": "15 Day",
     "price": 60,
     "title": "Learn UI/UX Design Essential Training",
     "instructor": {
       "name": "Jimmy Dane",
+      "id": "01",
       "designation": "Instractor",
+      "in_title": "Web Designer",
+      "courses": "3 Courses",
       "photo": "https://images.unsplash.com/photo-1583195763986-0231686dcd43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWFuJTIwcGhvdG98ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
     "image_url": "https://images.unsplash.com/photo-1603969409447-ba86143a03f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8dWklMjB1eCUyMGRlc2lnbiUyMHdpdGglMjBtYW58ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
@@ -41,12 +45,16 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 8,
     "lessons": 6,
     "duration": "12 Day",
     "price": 88,
     "title": "React JS Complete Guide",
     "instructor": {
       "name": "Robert Smith",
+      "id": "02",
+      "in_title": "Front-End Developer",
+      "courses": "4 Courses",
       "designation": "Instractor",
       "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dGVhY2hlciUyMGZhY2V8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
     },
@@ -71,12 +79,16 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 6,
     "lessons": 8,
     "duration": "10 Day",
     "price": 50,
     "title": "The Complete HTML & CSS Course",
     "instructor": {
       "name": "Albert Mark",
+      "id": "03",
+      "in_title": "Web Developer",
+      "courses": "5 Courses",
       "designation": "Instractor",
       "photo": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
@@ -97,17 +109,22 @@
       "number": 4.3,
       "badge": "Excellent"
     },
+    "quiz": 9,
     "lessons": 10,
     "duration": "16 Day",
     "price": 40,
     "title": "Full Stack Development Course With 100 Web Template",
     "instructor": {
       "name": "Angela Jolly",
+      "id": "04",
+      "in_title": "Web Developer",
+      "courses": "5 Courses",
       "designation": "Instractor",
       "photo": "https://images.unsplash.com/photo-1580854603514-00e1142d162d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvbWFuJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
     },
 
-    "image_url": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nJTIwd2l0aCUyMG1hbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
+    "image_url": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nJTIwd2l0aCUyMG1hbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
+    "info": "Full Stack Web Developer Mean Stack course provides complete knowledge of software development and testing technologies such as JavaScript, Node. js, Angular, Docker, and Protractor. You'll build an end-to-end application, test and deploy code, and store data using MongoDB."
   },
   {
     "_id": "11468ed61aee84de492a8b04158a22f9",
@@ -124,12 +141,16 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 10,
     "lessons": 7,
     "duration": "18 Day",
     "price": 40,
     "title": "The Complete JavaScript Course basic to advanced",
     "instructor": {
       "name": "Henry Thomas",
+      "id": "05",
+      "in_title": "Front-End Developer",
+      "courses": "5 Courses",
       "designation": "Instractor",
       "photo": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
     },
@@ -148,12 +169,16 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 8,
     "lessons": 2,
     "duration": "8 Day",
     "price": 45,
     "title": "Learn Git & GitHub Beginner To Advanced",
     "instructor": {
       "name": "James Hobs",
+      "id": "06",
+      "in_title": "Software Engineer",
+      "courses": "5 Courses",
       "designation": "Instractor",
       "photo": "https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166__340.jpg"
     },
@@ -171,16 +196,20 @@
       "number": 4.3,
       "badge": "Excellent"
     },
+    "quiz": 10,
     "lessons": 9,
     "duration": "20 Day",
     "price": 40,
     "title": "The Complete Digital Marketing Course",
     "instructor": {
+      "in_title": "Finance Analyst",
+      "courses": "5 Courses",
       "name": "Michael John",
+      "id": "07",
       "designation": "Instractor",
-      "photo": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YXV0aG9yJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60",
-      "info": "This course will offer students a panoramic view of digital marketing and provide insights into key strategies using Internet-based platforms. In addition, it will focus on content that resonates with consumers that helps businesses differentiate themselves in competitive markets."
+      "photo": "https://images.unsplash.com/photo-1556157382-97eda2d62296?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8YXV0aG9yJTIwZmFjZXxlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60"
     },
+    "info": "This course will offer students a panoramic view of digital marketing and provide insights into key strategies using Internet-based platforms. In addition, it will focus on content that resonates with consumers that helps businesses differentiate themselves in competitive markets.",
 
     "image_url": "https://images.unsplash.com/photo-1571844305128-244233caa679?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvbWFuJTIwd2l0aCUyMGNvbXB1dGVyfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
   },
@@ -196,12 +225,16 @@
       "number": 4.5,
       "badge": "Excellent"
     },
+    "quiz": 9,
     "lessons": 5,
     "duration": "15 Day",
     "price": 38,
     "title": "The Complete Financial Analyst Training",
     "instructor": {
       "name": "Jimmy Dane",
+      "id": "01",
+      "in_title": "Finance Analyst",
+      "courses": "4 Courses",
       "designation": "Instractor",
       "photo": "https://cdn.pixabay.com/photo/2016/11/23/00/57/adult-1851571__340.jpg"
     },

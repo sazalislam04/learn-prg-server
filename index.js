@@ -6,6 +6,7 @@ app.use(cors());
 
 const courses = require("./data/courses.json");
 const categories = require("./data/categories.json");
+const instructors = require("./data/instructor.json");
 
 app.get("/", (req, res) => {
   res.send("Online Education Website Server is running");
@@ -29,6 +30,16 @@ app.get("/category/:id", (req, res) => {
   const id = req.params.id;
   const category = courses.filter((ct) => ct.category_id === id);
   res.send(category);
+});
+
+app.get("/instructors", (req, res) => {
+  res.send(instructors);
+});
+
+app.get("/instructor/:id", (req, res) => {
+  const id = req.params.id;
+  const instructor = courses.filter((ct) => ct.instructor.id === id);
+  res.send(instructor);
 });
 
 app.listen(port, () => {
